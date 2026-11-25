@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Datenblätter (urheberrechtlich geschützt, nicht veröffentlichen)
+datenblaetter/
+
+# Testdatei
+test.py
+
+# Sicherheitshalber: Dateien mit Geheimnissen
+.env
+
+# Temporäre Excel-Sperrdateien
+~$*
